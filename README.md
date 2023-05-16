@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Ashish+Khanchandani;Full+Stack+Software+Developer;Welcome+to+my+...+well+..this." alt="Typing SVG" /></a>
 </h1>
 
-<p>I'm a Fullstack developer from <b>🇮🇳</b>, currently living in <b>California, USA</b>.</p>
+<p>I'm a Fullstack developer from <b>🇮🇳</b>, currently @ <b>California, USA</b>.</p>
 <h3>I love tech and coding in...but not limited to...</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
