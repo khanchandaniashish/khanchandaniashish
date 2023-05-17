@@ -5,7 +5,10 @@
 <p>I'm a Fullstack developer, currently @ <b>California, USA</b>.</p>
 <h3>I love tech and coding in...but not limited to...</h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
+  
+  <img alt="Python" "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt ="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=black" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-43853d?style=for-the-badge&logo=amazonaws&logoColor=black" />
@@ -14,7 +17,6 @@
   <img alt="Distrbiuted Systems" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=v" />
-  <img alt="Python" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=black" />
   <img alt="Cassandra" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=black" /> 
