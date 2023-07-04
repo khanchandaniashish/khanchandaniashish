@@ -29,10 +29,10 @@
 - 2018 - 2022, Software Developer/Engineer @ IG Group
 
 ### Experience
-PayPal, San Jose, California                                                                            May 2023 - Present
-Software Engineering Intern
+<p>PayPal, San Jose, California                                                                            May 2023 - Present</p>
+<p>Software Engineering Intern</p>
 
-IG Group, Bangalore, India
+<p>IG Group, Bangalore, India </p>
 ##### Senior Software Engineer                                                                          Dec. 2020 – June 2022
 ##### Software Developer                                                                                July 2019 – Dec. 2020
 ##### Associate Developer                                                                               July 2018 – June 2019
