@@ -27,6 +27,28 @@
 - 2022 - 2024, Masters in Computer Science @ San Jose State University, California.
 - 2018 - 2022, Software Developer/Engineer @ IG Group
 
+### Experience
+- 2023, Software Engineering Intern @ PayPal, San Jose, California.
+- 2018 - 2022, Senior Software Engineer @ IG Group, India.
+
+
+<h3>Where to find me ?</h3>
+<p>
+  <a href="https://www.linkedin.com/in/rodriguescajetan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/cajeeeeeeee" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<sub><p align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khanchandaniashish&theme=radical)](https://git.io/streak-stats)
+</p></sub>
+
+<sub><p align="center">
+  [![CajetanRodrigues stats](https://github-readme-stats.vercel.app/api?username=khanchandaniashish&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+</p></sub>
+
+<sub><p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanchandaniashish&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p></sub>
+
 <h3>Where to find me ?</h3>
 <p>
   <a href="https://www.linkedin.com/in/ashish-khanchandani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/ashish.___?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
