@@ -28,6 +28,15 @@
 
 - 2018 - 2022, Software Developer/Engineer @ IG Group
 
+### Experience
+PayPal, San Jose, California                                                                            May 2023 - Present
+Software Engineering Intern
+
+IG Group, Bangalore, India
+##### Senior Software Engineer                                                                          Dec. 2020 – June 2022
+##### Software Developer                                                                                July 2019 – Dec. 2020
+##### Associate Developer                                                                               July 2018 – June 2019
+
 <h3>Where to find me ?</h3>
 <p>
   <a href="https://www.linkedin.com/in/ashish-khanchandani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/ashish.___?igshid=YmMyMTA2M2Y=" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
