@@ -41,13 +41,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khanchandaniashish&theme=radical)](https://git.io/streak-stats)
 </p></sub>
 
-<sub><p align="center">
-  [![CajetanRodrigues stats](https://github-readme-stats.vercel.app/api?username=khanchandaniashish&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-</p></sub>
 
-<sub><p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanchandaniashish&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p></sub>
 
 <h3>Where to find me ?</h3>
 <p>
