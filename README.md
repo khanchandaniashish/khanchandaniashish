@@ -3,7 +3,7 @@
 </h1>
 
 <p>I'm a Fullstack developer, currently @ <b>California, USA</b>.</p>
-<h3>I love tech and coding in...but not limited to...</h3>
+<h3>I love tech and coding in ..</h3>
 <p>
   
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
