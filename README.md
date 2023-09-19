@@ -24,12 +24,13 @@
 
 ### Education
 
-- 2022 - 2024, Masters in Computer Science @ San Jose State University, California.
-- 2018 - 2022, Software Developer/Engineer @ IG Group
+- 2022 - 2024, Masters in Computer Science @ San Jose State University, California, USA
+- 2014 - 2018, Bachelors in Computer Science @ JTNU-H , India
 
 ### Experience
-- 2023, Software Engineering Intern @ PayPal, San Jose, California.
-- 2018 - 2022, Senior Software Engineer @ IG Group, India.
+- August 2023 - Present : nstructional Teaching Associate - CS 131: Big Data and Unix Programming @ San Jose State University 
+- May 2023 - August 2023 : Software Engineering Intern @ PayPal, San Jose, California.
+- July 2018 - July 2022, Senior Software Engineer @ IG Group, India.
 
 
 <h3>Where to find me ?</h3>
