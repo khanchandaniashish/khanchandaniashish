@@ -33,11 +33,6 @@
 - July 2018 - July 2022, Senior Software Engineer @ IG Group, India.
 
 
-<h3>Where to find me ?</h3>
-<p>
-  <a href="https://www.linkedin.com/in/rodriguescajetan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/cajeeeeeeee" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
 <sub><p align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khanchandaniashish&theme=radical)](https://git.io/streak-stats)
 </p></sub>
